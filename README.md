@@ -73,10 +73,9 @@ This is a capstone project for [Google Data Analytics](https://www.coursera.org/
 - Automated a price catogirizing to create a new table based on the price category
 
 ---
-
 ### ✉️ Contact Me
 
-[<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sribn/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/b0rehole/)
+[<img align="left" src='https://www.svgrepo.com/show/452213/gmail.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com) [<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sribn/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/b0rehole/)
 
 <!--
 **sribn/sribn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
