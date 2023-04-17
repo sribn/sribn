@@ -16,18 +16,18 @@ I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who h
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="MySQL" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
+<img align="left" alt="PostgreSQL" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Numpy" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="Pandas" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="R" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
+<img align="left" alt="PowerBI" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
 <img align="left" alt="Tableau" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
-<img align="left" alt="Tableau" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
 <img align="left" alt="Google Cloud" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="Scikitlearn" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="Colab" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/349325/colaboratory.svg"/>
-<img align="left" alt="VScode" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br/> <br/>
 
 ---
