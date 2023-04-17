@@ -4,7 +4,7 @@
 
 <p align="justify">
 Hey there!👋🏻 <br/>
-I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who has immense passion about energy, tech, startups, and data. Continuously learning and seeking opportunities in data analytics or data science for research or business objective in (mostly) the energy and tech industries. Experienced in Python, SQL, R, and Spreadsheets for data analysis and Tensorflow or Scikitlearn for machine learning through various projects and certifications. Graduated from Bangkit Academy 2022 Machine Learning Cohort in my final year of study👌👌
+I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who have immense passion about energy, tech, startups, and data. Continuously learning and seeking opportunities in data analytics or data science for research or business objective in (mostly) the energy and tech industries. Experienced in Python, SQL, R, and Spreadsheets for data analysis and Tensorflow or Scikitlearn for machine learning through various projects and certifications. Graduated from Bangkit Academy 2022 Machine Learning Cohort in my final year of study👌👌
   </p>
 
 <p align="left">
