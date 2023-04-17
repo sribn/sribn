@@ -73,6 +73,16 @@ This is a capstone project for [Google Data Analytics](https://www.coursera.org/
 - Automated a price catogirizing to create a new table based on the price category
 
 ---
+### 📜 Certifications
+
+[TensorFlow Developer Certificate](https://www.credential.net/d56d855e-d45a-490a-a258-5d59d3c166a8) | 
+[Google Data Analytics](https://coursera.org/share/2ea7ee5e5159049428c75acd0ed49059) | 
+[DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ZEMH8YK45C3T) | 
+[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/FBYT9SAA6NDU) | 
+[TensorFlow: Data and Deployment Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NRSR5SAEZDCX) | 
+[Mathematics for Machine Learning](https://coursera.org/share/a9a20ade295c6fe042ba367bcd99e935)
+
+---
 ### ✉️ Contact Me
 
 [<img align="left" src='https://www.svgrepo.com/show/452213/gmail.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com) [<img align="left" src='https://www.svgrepo.com/show/452051/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sribn/) [<img align="left" src='https://www.svgrepo.com/show/452231/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/b0rehole/)
