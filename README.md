@@ -4,7 +4,7 @@
 
 <p align="justify">
 Hey there!👋🏻 <br/>
-I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who have immense passion about energy, tech, startups, and data. Continuously learning and seeking opportunities in data analytics or data science for research or business objective in (mostly) the energy and tech industries. Experienced in Python, SQL, R, and Spreadsheets for data analysis and Tensorflow or Scikitlearn for machine learning through various projects and certifications. Graduated from Bangkit Academy 2022 Machine Learning Cohort in my final year of study👌👌
+I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who have immense passion about energy, tech, startups, and data. Continuously learning and seeking opportunities in data analytics or data science for research or business objective. Experienced in Python, SQL, R, and Spreadsheets for data analysis and Tensorflow or Scikitlearn for machine learning through various projects and certifications. Graduated from Bangkit Academy 2022 Machine Learning Cohort in my final year of study👌👌
   </p>
 
 <p align="left">
@@ -34,6 +34,12 @@ I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who h
 
 ### 📊 Project Portofolio
 
+**Quantium Virtual Internship (Python)** <br/>
+[Notebook1](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%201.ipynb), [2](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%202.ipynb) | [Slide1](https://drive.google.com/file/d/1QEczjWXzLAwcMt2u3UZYB2V9J_Z_6RhS/view?usp=sharing), [2](https://drive.google.com/file/d/1VwtSHtjCHA6VGDSL6dI10cA4wzB9suIT/view?usp=sharing), [3](https://drive.google.com/file/d/1IchsL5_L7Uml8OUj-RxaMaMAcRLbKo8a/view?usp=sharing)
+- Handled inconsistent data by data slicing and filtering.
+- Transformed and visualized data for high-level analysis.
+- Assessed A/B testing by selecting control variables by similarity metrics and hypothesis testing with p-value for change significance control.
+##
 **Credit Card Fraud Detection (Python | scikit-learn)** <br/>
 [Notebook](https://www.kaggle.com/code/sribn99/credit-card-fraud-detection) | [Slide](https://drive.google.com/file/d/1y1iM4D-9jUgUrNcDwvQUBM4DIWoIRjKF/view?usp=sharing)
 - Handled imbalance data by combining undersampling and oversampling
@@ -75,6 +81,7 @@ This is a capstone project for [Google Data Analytics](https://www.coursera.org/
 ---
 ### 📜 Certifications
 
+[HackerRank SQL (Basic) Assessment](https://www.hackerrank.com/certificates/f82aec3d37f0) |
 [TensorFlow Developer Certificate](https://www.credential.net/d56d855e-d45a-490a-a258-5d59d3c166a8) | 
 [Google Data Analytics](https://coursera.org/share/2ea7ee5e5159049428c75acd0ed49059) | 
 [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ZEMH8YK45C3T) | 
