@@ -7,11 +7,6 @@ Hey there!👋🏻 <br/>
 I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who have immense passion about energy, tech, startups, and data. Continuously learning and seeking opportunities in data analytics or data science for research or business objective. Experienced in Python, SQL, R, and Spreadsheets for data analysis and Tensorflow or Scikitlearn for machine learning through various projects and certifications. Graduated from Bangkit Academy 2022 Machine Learning Cohort in my final year of study👌👌
   </p>
 
-<p align="left">
-<a href="https://github.com/sribn?tab=followers">
-         <img alt="followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/sribn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=people&label=Followers&logoColor=white"/></a>
-  </p>
-
 --- 
 
 ### 🧰 Languages and Tools
@@ -22,18 +17,23 @@ I'm a highly analytical Bachelor of Geophysical Engineering fresh graduate who h
 <img align="left" alt="Pandas" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="R" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
-<img align="left" alt="PowerBI" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-<img align="left" alt="Tableau" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
-<img align="left" alt="Google Cloud" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="Scikitlearn" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="Colab" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/349325/colaboratory.svg"/>
+<img align="left" alt="PowerBI" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+<img align="left" alt="Looker" width="160px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg"/>
 <br/> <br/>
 
 ---
 
 ### 📊 Project Portofolio
 
+**Kimia Farma Big Data Analytics Virtual Internship (SQL | Google Looker Studio)** <br/>
+[Dashboard](https://lookerstudio.google.com/reporting/065d3130-8395-4caa-9abd-f84fb73cd504) | [Slide](https://drive.google.com/file/d/1vaiRffYkXqKtbuGUnR74c4_CZhvUEWj6/view?usp=sharing)
+- Designed datamart for sales with Google Sheets and BigQuery.
+- Created aggregate table with additional revenue field for sales analytics.
+- Designed a dashboard to monitor sales performance with Looker Studio.
+##
 **Quantium Virtual Internship (Python)** <br/>
 [Notebook1](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%201.ipynb), [2](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%202.ipynb) | [Slide1](https://drive.google.com/file/d/1QEczjWXzLAwcMt2u3UZYB2V9J_Z_6RhS/view?usp=sharing), [2](https://drive.google.com/file/d/1VwtSHtjCHA6VGDSL6dI10cA4wzB9suIT/view?usp=sharing), [3](https://drive.google.com/file/d/1IchsL5_L7Uml8OUj-RxaMaMAcRLbKo8a/view?usp=sharing)
 - Handled inconsistent data by data slicing and filtering.
