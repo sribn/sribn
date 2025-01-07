@@ -26,7 +26,7 @@ I'm a highly analytical Bachelor of Engineering graduate with a strong foundatio
 ### Education
 - Machine Learning (2022)
 <br/> *Bangkit Academy by Google, GoTo, & Traveloka* <br/>
-- B.Eng., Geophysical Engineering (2018-2022)
+- B.Eng., Geophysical Engineering (2018 - 2022)
 <br/> *Brawijaya University*
 
 ---
@@ -46,7 +46,6 @@ I'm a highly analytical Bachelor of Engineering graduate with a strong foundatio
 - Assisted basic concept of function topic and coding with MATLAB.
 - Implemented collective student reporting and scoring with Google Sheets pivoting.
 - Analyzed student performance for course evaluation.
-
 
 ---
 
