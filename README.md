@@ -8,7 +8,7 @@ I'm a highly analytical Bachelor of Engineering graduate with a strong foundatio
 
 --- 
 
-### Languages and Tools
+### Tools
 
 <img align="left" alt="Google Docs" width="40px" style="padding-right:40px;" src="https://roiamplified.com/wp-content/uploads/2018/09/gsuite-logo.png"/>
 <img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
