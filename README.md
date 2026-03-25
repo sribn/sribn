@@ -1,5 +1,3 @@
-# Data Analyst
-
 **`Data, Energy, Sustainability`**
 
 <p align="justify">
