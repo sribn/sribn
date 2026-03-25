@@ -1,7 +1,7 @@
 # Data, Energy, Sustainability
 
 <p align="justify">
-I'm a highly analytical Bachelor of Engineering graduate with a strong foundation in the energy sector, data analysis, and sustainability. Specialized in geothermal exploration and data analytics during my studies. Skilled in GHG inventory, data processing, modelling, visualization/dashboard creation and interpretation through hands-on projects and certifications. Seeking to drive sustainable transition through data-driven approaches.
+Highly analytical MSc student in Sustainable Energy Systems at the Technical University of Denmark, focusing on energy systems analysis for data-driven sustainable and just energy transitions. Experienced in data processing, modelling, and interpretation from geophysical data for geothermal exploration to business growth analytics. Interested in advancing data analysis and machine learning for techno-economic modelling in sustainable energy systems and climate topics.
   </p>
 
 --- 
@@ -9,9 +9,8 @@ I'm a highly analytical Bachelor of Engineering graduate with a strong foundatio
 ### Tools
 
 <img align="left" alt="Google Docs" width="40px" style="padding-right:40px;" src="https://roiamplified.com/wp-content/uploads/2018/09/gsuite-logo.png"/>
-<img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
+<img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg"/>
 <img align="left" alt="BigQuery" width="40px" style="padding-right:40px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Scikitlearn" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
@@ -22,25 +21,33 @@ I'm a highly analytical Bachelor of Engineering graduate with a strong foundatio
 ---
 
 ### Education
+- MSc Eng in Sustainable Energy Systems (2026 - 2028)
+<br/> *Technical University of Denmark*
 - Machine Learning (2022)
 <br/> *Bangkit Academy by Google, GoTo, & Traveloka* <br/>
-- B.Eng., Geophysical Engineering (2018 - 2022)
+- BEng in Geophysical Engineering (2018 - 2022)
 <br/> *Brawijaya University*
 
 ---
 
 ### Work Experience
-**Machine Learning Mentor (Feb 2022 - Aug 2022)**
-<br/> *Indonesia AI*
-- Mentored 3 batches of Machine Learning classes.
-- Covered topics: data loading and visualization, data preprocessing, and basic machine learning algorithms.
-- Reported mentees’ progress to stakeholders.
+**Growth Analyst (Feb 2025 - Dec 2025)**
+<br/> *PT Amartha Mikro Fintek*
+- Developed an agent performance dashboard to track reward eligibility, enabling targeted notifications resulting in the program’s highest CTR of the year.
+- Executed the development of RFM (Recency, Frequency, Monetary) analysis system with SQL, enabling stakeholders to identify customers’ movement and segment for accurate strategic actions.
+- Regularly build and maintain dynamic datasets and dashboards on Superset, aligned with evolving stakeholder requirements and supporting key business objectives.
 
-**Student Intern (Feb 2022 - Mar 2022)**
-<br/> *NewQuest Geotechnology*
-- Analyzed noises in time series, spectra density, coherence, and resistivity/phase curve.
-- Enhanced magnetotelluric data quality through time series and cross power selection.
-- Achieved very good and good quality magnetotelluric data through noise analysis and cross power selection.
+**Machine Learning Mentor (Feb 2022 - Aug 2022)**
+<br/> *PT Teknologi Artifisial Indonesia*
+- Mentored 3 Machine Learning cohorts to guide mentees through end-to-end ML workflows.
+- Taught data visualization, preprocessing techniques, and fundamental supervised learning algorithms.
+- Evaluated mentee performance and communicated progress reports to program stakeholders.
+
+**Geophysicist Intern (Feb 2022 - Mar 2022)**
+<br/> *PT NewQuest Geotechnology*
+- Performed noise analysis on time series, spectral density, coherence, and resistivity/phase curves for magnetotelluric surveys in geothermal exploration sites.
+- Enhanced magnetotelluric data quality through time series processing and cross power selection.
+- Contributed to the generation of high-quality resistivity models to support geothermal system assessment.
 
 **Computational Geophysics Labworks Assistant (Oct 2021 - Dec 2021)**
 <br/> *Brawijaya University*
