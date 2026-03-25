@@ -1,4 +1,4 @@
-**`Data, Energy, Sustainability`**
+# Data, Energy, Sustainability
 
 <p align="justify">
 I'm a highly analytical Bachelor of Engineering graduate with a strong foundation in the energy sector, data analysis, and sustainability. Specialized in geothermal exploration and data analytics during my studies. Skilled in GHG inventory, data processing, modelling, visualization/dashboard creation and interpretation through hands-on projects and certifications. Seeking to drive sustainable transition through data-driven approaches.
