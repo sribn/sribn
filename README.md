@@ -12,6 +12,7 @@ Highly analytical MSc student in Sustainable Energy Systems at the Technical Uni
 <img align="left" alt="Excel" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg"/>
 <img align="left" alt="BigQuery" width="40px" style="padding-right:40px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="PyPSA" width="40px" style="padding-right:40px;" src="https://avatars.githubusercontent.com/u/32890768?s=200&v=4">
 <img align="left" alt="Scikitlearn" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="Tableau" width="40px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
